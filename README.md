@@ -28,6 +28,19 @@
 - Kotlin Extensions (Ktx)
 - 3rd Party Libraries (Agora SDK, Agora RTM, Agora RTC, Faceunity SDK, Retrofit, Moshi, Gson, Glide, Picasso, Coil, EasyPermissions, EventBus, Timber, ...)
 
+<h3 align="left">Tech Skills: iOS</h3>
+
+
+- Swift
+- Xcode
+- UIKit, SwiftUI
+- MVC, MVVM, MVP
+- Core Data, Realm
+- Firebase
+- MVVM, MVP, MVI, VIPER, Modular
+- Networking, RESTful APIs, Socket, JSON, XML
+- 3rd Party Libraries (Alamofire, SnapKit, OneSignal, Analytics, Lottie, AudioKit, IGListKit, ...)
+
 <!-- ### Feel Free to Contact me..... -->
 <h3 align="center">Feel Free to Contact me.....</h3>
 <p align="center">
